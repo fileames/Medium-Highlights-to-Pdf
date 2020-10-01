@@ -2,13 +2,13 @@
 
 Create pdf documents from your highlights of medium articles.
 
-![alt text](https://github.com/fileames/Medium-Highlights-to-Pdf/blob/master/img/image.png?raw=true)
+![alt text](https://github.com/fileames/Medium-Highlights-to-Pdf/blob/master/img/image.PNG?raw=true)
 
 ## Dependencies
 
-[BeautifulSoup](https://pypi.org/project/beautifulsoup4/) 
-[selenium](https://pypi.org/project/selenium/) 
-[reportlab](https://pypi.org/project/reportlab/)
+-[BeautifulSoup](https://pypi.org/project/beautifulsoup4/) 
+-[selenium](https://pypi.org/project/selenium/) 
+-[reportlab](https://pypi.org/project/reportlab/)
 
 
 ## Usage
