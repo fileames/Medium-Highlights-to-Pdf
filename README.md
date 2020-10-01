@@ -6,9 +6,9 @@ Create pdf documents from your highlights of medium articles.
 
 ## Dependencies
 
--[BeautifulSoup](https://pypi.org/project/beautifulsoup4/) 
--[selenium](https://pypi.org/project/selenium/) 
--[reportlab](https://pypi.org/project/reportlab/)
+-[BeautifulSoup](https://pypi.org/project/beautifulsoup4/)  
+-[selenium](https://pypi.org/project/selenium/)  
+-[reportlab](https://pypi.org/project/reportlab/)  
 
 
 ## Usage
