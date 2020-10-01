@@ -1,10 +1,6 @@
 from bs4 import BeautifulSoup
 
 import sys
-sys.path.append('/Users/elifs/anaconda3/envs/py64/Lib/site-packages/selenium-3.141.0-py3.8.egg')
-sys.path.append('/Users/elifs/anaconda3/envs/py64/Lib/site-packages')
-
-
 
 from pageStructure import create_doc 
 
@@ -22,11 +18,7 @@ from os import path
 
 import reportlab.platypus as platypus
 
-
-
-
-
-browser = webdriver.Chrome(executable_path=r'/Users/elifs/Desktop/bin/chromedriver.exe')
+browser = webdriver.Chrome()
 
 
 doc = create_doc(2)
