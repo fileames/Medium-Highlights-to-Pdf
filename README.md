@@ -2,7 +2,7 @@
 
 Create pdf documents from your highlights of medium articles.
 
-![alt text](https://github.com/fileames/Medium-Highlights-to-Pdf/blob/master/img/image.PNG?raw=true)
+![alt text](https://github.com/fileames/Medium-Highlights-to-Pdf/blob/master/img/image2.PNG?raw=true)
 
 ## Dependencies
 
